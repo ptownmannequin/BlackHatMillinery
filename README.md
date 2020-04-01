@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Black Hat Millinery
+
+This currently is a test site. Eventually there may be hats. Check back in occasionally.
 
 You can use the [editor on GitHub](https://github.com/ptownmannequin/BlackHatMillinery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
